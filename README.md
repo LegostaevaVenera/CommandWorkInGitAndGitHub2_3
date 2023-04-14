@@ -14,4 +14,4 @@
 
 # ![Photo](my_photo.png "Photo")
 
-[Мой профиль GitGub](https://github.com/LegostaevaVenera)
+[Мой профиль GitHub](https://github.com/LegostaevaVenera)
